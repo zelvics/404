@@ -1,5 +1,5 @@
 (function($) {
-	var aiMsg = ["404, wrong page buddy.", "404, it's not too late to turn back.", "404, why are you here?", "404, you need to leave.", "404, get out of here.", "404, hey there.", "404, enjoy.", "404, please make it stop.", "404, fuck off.", "404, stop this now.", "404, why :(", "404, **sigh**"];
+	var aiMsg = ["404, wrong page buddy.", "404, it's not too late to turn back.", "404, why are you here?", "404, you need to leave.", "404, get out of here.", "404, hey there.", "404, enjoy.", "404, please make it stop.", "404, stop this now.", "404, why :(", "404, **sigh**"];
 
 	$(document).ready(function() {
 		var inputAI = $("#reg_ai");
